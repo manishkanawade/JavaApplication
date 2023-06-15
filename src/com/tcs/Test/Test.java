@@ -15,6 +15,8 @@ public class Test {
 		System.out.println("code added ");
 		
 		System.out.println("code added 1");
+		
+		System.out.println("thursday");
 
 	}
 
